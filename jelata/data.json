@@ -1,0 +1,37 @@
+{
+  "1": {
+    "id": 1,
+    "firstname": "asd",
+    "lastname": "asd",
+    "email": "asd@asd",
+    "pwd": "asd"
+  },
+  "2": {
+    "id": 2,
+    "firstname": "попа",
+    "lastname": "попа",
+    "email": "asd@dsa",
+    "pwd": "asd"
+  },
+  "3": {
+    "id": 3,
+    "firstname": "asd",
+    "lastname": "asd",
+    "email": "asd@asd",
+    "pwd": "asd"
+  },
+  "4": {
+    "id": 4,
+    "firstname": "asdasd",
+    "lastname": "asdad",
+    "email": "adada@ad",
+    "pwd": "asdadad"
+  },
+  "7": {
+    "id": 7,
+    "firstname": "asd",
+    "lastname": "asd",
+    "email": "asd@asd",
+    "pwd": "asd"
+  }
+}
